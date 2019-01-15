@@ -1,0 +1,12 @@
+クラス名：map_input
+フィールド変数
+    String[] file_input   //テキストファイルを読み込んだ値。
+    int start_point_x   //プレイヤーの初期位置のx座標
+    int start_point_y   //プレイヤーの初期位置のy座標
+    int map_size_x      //マップのサイズ(x軸)
+    int map_size_x      //マップのサイズ(y軸)
+    String[] map        //実際のマップ情報
+メソッド
+    テキストファイルを読み込んで保存
+コンストラクタ
+    テキストファイルを読み込んで保存。
